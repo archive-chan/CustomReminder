@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Application.ico</file>
+        <file>font/VerticalSans.ttf</file>
+    </qresource>
+</RCC>
